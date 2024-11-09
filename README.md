@@ -21,53 +21,53 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: center; min-height: 300px;">
   <div>
-    <p>Sou desenvolvedor web front-end e utilizo <strong>HTML, CSS, JavaScript, Bootstrap e Figma</strong> para desenvolver meus projetos. Nas horas vagas, estudo desenvolvimento de jogos com Godot e pretendo me aprofundar em Java, PHP e Python futuramente.</p>
+    <p align="center">Sou desenvolvedor web front-end, com conhecimento em HTML, CSS, JavaScript, Bootstrap e Figma, e planejo me aprofundar em Java, PHP e Python. Atualmente, exploro o desenvolvimento de jogos no Godot4x como hobbie. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, tenho 24 anos e moro em São Lourenço da Mata, Pernambuco.</p>
   </div>
 
   <div align="left">
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" alt="ilustração de um computador" width="400px" style="margin-right: 20px;">
+<p>
+  <strong>
+    Tecnologias:
+  </strong>
   <p>
-    <strong>
-      Tecnologias:
-    </strong>
-    <p>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    </p>
+    <img src="https://img.shields.io/badge/-HTML5-1c1c1c?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS3-1c1c1c?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/-JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-1c1c1c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </p>
-  
-  <p>
-    <strong>
-      Ferramentas:
-    </strong>
-    <p>
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </p>
+</p>
 
+<p>
+  <strong>
+    Ferramentas:
+  </strong>
   <p>
-    <strong>
-      Interesses:
-    </strong>
-    <p>
-      <img src="https://img.shields.io/badge/-Java-DE8C2D?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.sh ```html
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </p>
+    <img src="https://img.shields.io/badge/-Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/-VS%20Code-1c1c1c?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+    <img src="https://img.shields.io/badge/-Git-1c1c1c?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </p>
 
+<p>
+  <strong>
+    Interesses:
+  </strong>
   <p>
-    <strong>
-      Hobbie:
-    </strong>
-    <p>
-      <img src="https://img.shields.io/badge/Godot-1C1C1C.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
-      <img src="https://img.shields.io/badge/GDScript-1E1E1E.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
-    </p>
+    <img src="https://img.shields.io/badge/-Java-1c1c1c?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/-PHP-1c1c1c?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/-Python-1c1c1c?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </p>
+</p>
+
+<p>
+  <strong>
+    Hobbie:
+  </strong>
+  <p>
+    <img src="https://img.shields.io/badge/Godot-1c1c1c.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
+    <img src="https://img.shields.io/badge/GDScript-1c1c1c.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
+  </p>
+</p>
 </div>
 
 ## 📂 Projetos em Destaque
@@ -110,6 +110,5 @@
 ## 📈 Contribuições
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gleidson-cruz&show_icons=true&theme=dark)
-![Snake animation](https://github.com/Gleidson-cruz/Gleidson-cruz/blob/output/github-contribution-grid-snake.svg)
 
 Obrigado por visitar meu perfil! 😊
