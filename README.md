@@ -90,6 +90,9 @@
     <a href="https://github.com/Gleidson-cruz/novo-portifolio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidson-cruz&repo=novo-portifolio&bg_color=1c1c1c" />
     </a>
+    <a href="https://github.com/Gleidson-cruz/link-tree">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidson-cruz&repo=link-tree&bg_color=1c1c1c" />
+    </a>
 </div>
 
 ## 📂 Projetos de hobbie
