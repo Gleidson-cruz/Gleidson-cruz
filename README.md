@@ -113,5 +113,8 @@
 ## 📈 Contribuições
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gleidson-cruz&show_icons=true&theme=dark)
+<img src="https://raw.githubusercontent.com/Gleidson-cruz/Gleidson-cruz/output/snake.svg" alt="Snake animation" />
+
+###
 
 Obrigado por visitar meu perfil! 😊
