@@ -76,8 +76,8 @@
     <a href="https://github.com/Gleidson-cruz/keroacai">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidson-cruz&repo=keroacai&bg_color=1c1c1c" />
     </a>
-    <a href="https://github.com/Gleidson-cruz/gleidson-cruz.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidson-cruz&repo=gleidson-cruz.github.io&bg_color=1c1c1c" alt="Gleidson Cruz GitHub Pages"  />
+    <a href="https://github.com/Gleidson-cruz/https://github.com/Gleidson-cruz/casapet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidson-cruz&repo=casapet&bg_color=1c1c1c" alt="Casa Pet"  />
     </a>
    <a href="https://github.com/Gleidson-cruz/Gerenciador-de-cadastros">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidson-cruz&repo=Gerenciador-de-cadastros&bg_color=1c1c1c" alt="Gerenciador de cadastros" />
